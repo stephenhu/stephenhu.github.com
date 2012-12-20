@@ -71,3 +71,8 @@ a:link {
   text-shadow: none;
   color: #ff1a1a;
 }
+
+.navbar .nav .active > a, .navbar .nav .active > a:hover {
+  background-color: #ff1a1a;
+  color: #ffffff;
+}
