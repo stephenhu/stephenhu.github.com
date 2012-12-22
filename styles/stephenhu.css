@@ -16,6 +16,11 @@ a {
   color: #ffffff;
 }
 
+td {
+  color: #ffffff;
+  padding: 5px;
+}
+
 a:hover {
   text-decoration: none;
   color: #005994;
@@ -30,19 +35,33 @@ a:link {
   text-decoration: none;
 }
 
+/* custom classes */
+
 .overlay {
   display: block;
-  width: auto; 
+  /*width: auto;*/ 
   color: #ffffff;
   background: #1b1b1b;
   opacity: .6;
   filter:alpha(opacity=60);
-  padding: 5px;
+  padding: 10px;
   border-radius: 3px;
 }
 
 .text {
   font-size: 5em;  
+}
+
+.square {
+  min-width: 128px;
+  min-height: 128px;
+  max-width: 128px;
+  max-height: 128px;
+  display: block;
+}
+
+.title {
+  font-size: 2em;
 }
 
 /* bootstrap overrides */
