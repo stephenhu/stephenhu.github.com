@@ -1,17 +1,25 @@
-this is my very first blog post for this new site, welcome!  the
-facebook and twitter era cast a dark shadow on the world of blogging
-because they were simple and succinct tools and helped people communicate
-more efficiently.  however, sometimes, writing a lengthy post about
-some particular topic without the constraints or associations that come
-along with micro-blogging tools is really refreshing.  services like
-tumblr and posterous also have brought blogging back from the depths
-of hell.  and newer services like jekyll have given new life to the
-ancient ways of blogging.
+welcome, this is my very first blog post here!  i've been blogging
+for a fairly long time, my very first blog was written in pure html
+back in my college days (circa '96).  i still remember my first text
+editor, it was this gui called crisp that ran on windows, syntax
+highlighting and all!  later on, after graduating, i dabbled a little
+in php and wrote my own blogging app with mysql backend, this was
+all hosted from godaddy, i would upload new files using ftp to a
+linux server running apache in one of godaddy's datacenters, this
+server was probably hosting several hundred other sites as well.
 
-my very first blog was written in pure html, i remember using a tool
-in 1996 called crisp which was a gui text editor on windows, it had
-color coding and all that cool stuff.  later on after i graduated
-from university, i dabbled with php and wrote my own blog service
-using a lamp stack hosted on godaddy.  today i would like to unveil
-my newest creation which leverages githubs pages and my very own
-creation, metc, the meta compiler.
+i had stopped blogging for some time around 2008 or so, part of the
+reasoning was probably because my domain expired, but also because
+micro-blogging tools like facebook and twitter had pretty much taken
+over as communication tools because they were quick and simple (granted
+these tools were blocked in china which is why i never really used these).
+however, sometimes, writing a lengthy post about some particular topic
+without the constraints or associations that come along with
+micro-blogging tools is actually quite refreshing.  tools like tumblr
+and posterous have made blogging easier, and static site generators
+like jekyll have brought back blogging in a new and interesting way.
+
+anyway, it's great to be back, and i'm actually quite excited to be
+blogging again, and on top of that, i've been working on a tool to
+help aide in the process called [metc](https://github.com/stephenhu/metc).
+
