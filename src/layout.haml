@@ -1,0 +1,16 @@
+!!!
+%html{:lang => "en"}
+  %head
+    %title stephenhu.info
+    %link{:rel => "stylesheet", :href => "bootstrap/css/boostrap.min.css"}
+    %link{:rel => "stylesheet", :href => "css/stephenhu.css"}
+  %body
+  
+    = haml :navbar
+
+    %div.container    
+      = yield
+    
+    %div.navbar.navbar-static-bottom
+      %p.torquise Stephen Hu &copy; Copyright 2014
+

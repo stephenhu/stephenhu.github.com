@@ -1,0 +1,11 @@
+%div{:class => "row"}
+  - contents.each do |c|
+    %div{:class => "col-lg-3 box"}
+      - if c[:picture]
+        %img{:src => "#{c[:link]}"}
+      - else
+        %a{:href => "#{c[:link]}"}
+          %h4{:class => "green"}= c[:title]
+        %date= c[:created_at]
+        %p= c[:summary]
+
