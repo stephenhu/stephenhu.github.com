@@ -1,0 +1,131 @@
+html {
+  background: -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: 100%;
+  font-family: "Helvetica Neue";
+  height: 100%;
+}
+
+body {
+  background-color: transparent;
+  background: -webkit-linear-gradient( top, #132b39, #005994 );
+  color: #ffffff;
+  height: 100%;
+}
+
+h2, h3, h4 {
+  font-weight: 200;  
+}
+
+p {
+  font-weight: 200;
+}
+
+a {
+  //color: #33ff00;
+  color: #0077c7;
+  //color: #0080c0;
+  //color: #33ccff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  //color: #ff9900;
+  //color: #66eeff;
+  //color: #0077c7;
+  color: #33ccff;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+date {
+  color: #33ccff;
+  font-size: 11px;
+}
+
+/* custom classes */
+
+.box {
+  padding: 10px;
+  //margin: 3px;
+  opacity: .8;
+  //background: -webkit-linear-gradient( top, #005994, #0087E0 );
+  //background: -webkit-linear-gradient( top, #132b39, #005994 );  
+  border-radius: 2px;
+}
+
+.box:hover {
+  //border: 1px solid #33ccff;
+  opacity: 10;
+}
+
+.big {
+  font-size: 32px;
+}
+
+.white {
+  color: #eeeeee;
+}
+
+.torquise {
+  //color: #00dd00;
+  color: #0077c7;
+}
+
+.green {
+  //padding: 5px;
+  border-bottom: 1px solid #0087e0;
+  color: #00dd00;
+  //color: #000000;
+}
+
+.overlay {
+  opacity: .8;
+  background-color: #008800;
+}
+
+.title {
+  font-size: 28px;  
+}
+
+.logo {
+  font-weight: 100;
+}
+
+.off-logo {
+  color: #f90000;
+  font-weight: 100;
+}
+
+/* bootstrap overrides */
+
+.navbar {
+  padding: 20px;
+  //border: 1px solid #0077c7;
+}
+
+.navbar-brand {
+  margin-left: 20px;
+  font-size: 32px;
+}
+
+.row {
+  //border-top: 1px solid #0087e0;
+  display: block;
+  height: 100%;
+  min-height: 100%;
+}
+
+.container {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
