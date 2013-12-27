@@ -1,0 +1,12 @@
+- rows.each do |r|
+  %div{:class => "row"}
+    - r.each do |c|
+      %div{:class => "#{c[:col_classes]}"}
+        - if c[:picture]
+          %img{:src => "#{c[:link]}"}
+        -else
+          %a{:href => "#{c[:link]}"}
+            %h4{:class => "green"}= c[:title]
+          %date= c[:created_at]
+          = c[:summary]
+
