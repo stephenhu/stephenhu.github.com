@@ -21,5 +21,5 @@ like jekyll have brought back blogging in a new and interesting way.
 
 anyway, it's great to be back, and i'm actually quite excited to be
 blogging again, and on top of that, i've been working on a tool to
-help aide in the process called [metc](https://github.com/stephenhu/metc).
+help aide in the process called [meta](https://github.com/stephenhu/meta).
 
