@@ -1,8 +1,8 @@
 html {
-  background: -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: 100%;
+  //background: -webkit-background-size: cover;
+  //-moz-background-size: cover;
+  //-o-background-size: cover;
+  //background-size: 100%;
   font-family: "Helvetica Neue";
   height: 100%;
 }
@@ -10,6 +10,8 @@ html {
 body {
   background-color: transparent;
   background: -webkit-linear-gradient( top, #132b39, #005994 );
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   color: #ffffff;
   height: 100%;
 }
