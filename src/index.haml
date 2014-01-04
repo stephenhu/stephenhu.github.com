@@ -1,0 +1,7 @@
+- contents.each do |c|
+  %div{:class => "blue s box"}
+    %a{:href => "#{c[:link]}"}
+      %h3= c[:title]
+    %date= c[:created_at]
+    = c[:summary]
+

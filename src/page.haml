@@ -1,0 +1,8 @@
+%div{:class => "black box xl"}
+  - if content[:picture]
+    %img{:src => "#{content[:link]}"}
+  -else
+    %h3= content[:title]
+    %date= content[:created_at]
+    = content[:summary]
+
