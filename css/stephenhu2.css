@@ -107,13 +107,28 @@ a:hover {
   color: #ffffff;
 }
 
+.green a:hover {
+  color: #000000;
+  font-weight: 500;
+}
+
 .blue {
   color: #ffffff;
   background: -webkit-linear-gradient( top, #005994, #007dd1 );
 }
 
 .blue a {
-  color: #00dd00;
+  color: #ffffff;
+}
+
+.blue a:hover {
+  color: #00ff00;
+  font-weight: 500;
+}
+
+.blue img {
+  overflow: hidden;
+  width: 100%;
 }
 
 .red {
@@ -126,8 +141,4 @@ a:hover {
   background-color: #222222;
 }
 
-.blue img {
-  overflow: hidden;
-  width: 100%;
-}
 
