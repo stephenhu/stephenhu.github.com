@@ -2,6 +2,6 @@
   %div{:class => "blue s box"}
     %a{:href => "#{c[:link]}"}
       %h3= c[:title]
-    %date= c[:created_at]
+    %date= c[:created_at].asctime
     = c[:summary]
 

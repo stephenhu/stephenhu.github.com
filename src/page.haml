@@ -3,6 +3,6 @@
     %img{:src => "#{content[:link]}"}
   -else
     %h3= content[:title]
-    %date= content[:created_at]
+    %date= content[:created_at].asctime
     = content[:summary]
 
