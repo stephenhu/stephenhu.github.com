@@ -118,11 +118,11 @@ a:hover {
 }
 
 .blue a {
-  color: #ffffff;
+ color: #ffffff;
 }
 
 .blue a:hover {
-  color: #00ff00;
+  color: #ffff00;
   font-weight: 500;
 }
 
