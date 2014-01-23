@@ -1,0 +1,45 @@
+!!!
+%html{:lang => "en"}
+  %head
+    %title stephenhu.info
+    %link{:rel => "stylesheet", :href => "//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css"}
+    %link{:rel => "stylesheet", :href => "css/stephenhu2.css"}
+  :javascript
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-46746565-1', 'stephenhu.info');
+    ga('send', 'pageview');
+
+  %body
+  
+    %div{:class => "green xl box"}
+      %a{:href => "index.html"}
+        %h2 STEPHENHU
+      %h4 Innovation, Creativity, Uniqueness
+      %h5 Copyright &copy; 2014
+      %a{:href => "https://github.com/stephenhu"}
+        %img{:src => "images/glyphicons_social_21_github.png"}
+      %a{:href => "https://cn.linkedin.com/in/hustephen"}
+        %img{:src => "images/glyphicons_social_17_linked_in.png"}
+      %a{:href => "mailto:epynonymous@outlook.com"}
+        %img{:src => "images/glyphicons_social_39_e-mail.png"}
+      %a{:href => "http://flickr.com/photos/blueconfusion"}
+        %img{:src => "images/glyphicons_social_35_flickr.png"}
+      %br
+      %br
+      %a{:href => "", :class => "gauge"}
+        %div{:class => "value"}
+          = stats[:posts]
+        %div{:class => "key"}
+          POSTS
+      %a{:href => "", :class => "gauge"}
+        %div{:class => "value"}
+          = stats[:pictures]
+        %div{:class => "key"}
+          PHOTOS
+
+    = yield
+
