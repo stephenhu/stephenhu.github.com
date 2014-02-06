@@ -1,3 +1,5 @@
+![Airbnb](https://a0.muscache.com/airbnb/static/about/resources/airbnb-logo-293-1d7ea0761fc6bc1efde1d6e706479392.png)
+
 i first found airbnb on hacker news, the idea didn't seem that novel, i.e. i
 wasn't blown away by the technology or business model, more so that i needed
 a nice place to stay and the traditional hotel booking sites never made me feel
