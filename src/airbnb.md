@@ -3,7 +3,7 @@ wasn't blown away by the technology or business model, more so that i needed
 a nice place to stay and the traditional hotel booking sites never made me feel
 like i was getting the best deal, having a middle man only adds cost.  for those
 not familiar with airbnb, they're a startup company in the bay area that
-that essentially allows you to rent your room, apartment, or house by the day
+essentially allows you to rent out your room, apartment, or house by the day
 (or month), just like a hotel.  airbnb provides professional photographers
 to help create the best looking images for free.  in return,
 airbnb takes a cut of the rental price and plays as a trusted escrow service.
