@@ -12,7 +12,7 @@ body {
   height: 100%;
 }
 
-h2, h3, h4, h5, p {
+h1, h2, h3, h4, h5, p {
   font-weight: 200;
 }
 
@@ -22,7 +22,7 @@ date {
 }
 
 a {
-  color: #e60000;
+  color: #00c700;
 }
 
 a, a:link, a:hover, a:visited {
@@ -31,6 +31,10 @@ a, a:link, a:hover, a:visited {
 
 a:hover {
   color: #ffffff;
+}
+
+p {
+  font-size: 2em;
 }
 
 /* custom */
@@ -94,6 +98,10 @@ a:hover {
   width: 300px;
 }
 
+.big {
+  font-size: 3em;
+}
+
 .white {
   background-color: #ffffff;
   color: #222222;
@@ -144,4 +152,9 @@ a:hover {
   background-color: #222222;
 }
 
+/* bootstrap overrides */
 
+.navbar {
+  background-color: #0066CC;
+  opacity: .8;
+}

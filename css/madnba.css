@@ -1,0 +1,70 @@
+/* NBA Faces 
+ * 
+ * Leverages images from yahoo.com
+ * MIT License
+ */
+
+.jimmy-butler {
+  content: url("http://l.yimg.com/bt/api/res/1.2/KO5EmkrJJzhrqY8RsZx3GQ--/YXBwaWQ9eW5ld3M7dz0xMDA7aD02NztxdWFsaXR5PTEwMA--/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/4912.png")
+}
+
+.blake-griffin {
+    content: url("http://l3.yimg.com/bt/api/res/1.2/ilL0NqAMzPAdN7FafDXlSA--/YXBwaWQ9eW5ld3M7dz0xMDA7aD02NztxdWFsaXR5PTEwMA--/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/4561.png")
+}
+
+.jae-crowder {
+    content: url("http://l2.yimg.com/bt/api/res/1.2/_LnGDnrUwZm59vfe8uF5LA--/YXBwaWQ9eW5ld3M7dz0xMDA7aD02NztxdWFsaXR5PTEwMA--/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/5068.png")
+}
+
+.avery-bradley {
+    content: url("http://l2.yimg.com/bt/api/res/1.2/fzDPmmEXMIqtLpY_U_.9AQ--/YXBwaWQ9eW5ld3M7dz0xMDA7aD02NztxdWFsaXR5PTEwMA--/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/4750.png")
+    
+}
+
+.marcus-smart {
+    content: url("http://l3.yimg.com/bt/api/res/1.2/1ROOpICWv7MzpypJBxPyxA--/YXBwaWQ9eW5ld3M7dz0xMDA7aD02NztxdWFsaXR5PTEwMA--/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/5317.png")
+}
+
+.paul-george {
+    content: url("http://l3.yimg.com/bt/api/res/1.2/2aXnb_Kv_bMafNgIk2WH_g--/YXBwaWQ9eW5ld3M7dz0xMDA7aD02NztxdWFsaXR5PTEwMA--/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/4725.png")
+}
+
+.andre-drummond {
+    content: url("http://l.yimg.com/bt/api/res/1.2/MWxK6t0CZLSn2O.5QxmNdQ--/YXBwaWQ9eW5ld3M7dz0xMDA7aD02NztxdWFsaXR5PTEwMA--/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/5015.png")
+}
+
+.nikola-vucevic {
+    content: url("http://l1.yimg.com/bt/api/res/1.2/UZwJyclFvt7Do8yyaKqeRg--/YXBwaWQ9eW5ld3M7dz0xMDA7aD02NztxdWFsaXR5PTEwMA--/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/4897.png")
+}
+
+.amir-johnson {
+    content: url("http://l2.yimg.com/bt/api/res/1.2/4wPSDoJw.pK3J0xPduPqnA--/YXBwaWQ9eW5ld3M7dz0xMDA7aD02NztxdWFsaXR5PTEwMA--/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/3982.png")
+}
+
+.kelly-olynyk {
+    content: url("http://l.yimg.com/bt/api/res/1.2/cwkdRAv2D5XDeYM_1_MOSA--/YXBwaWQ9eW5ld3M7dz0xMDA7aD02NztxdWFsaXR5PTEwMA--/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/5164.png")
+}
+
+.reggie-jackson {
+    content: url("http://l1.yimg.com/bt/api/res/1.2/nteLixjfBOvsbn.ljEfdLg--/YXBwaWQ9eW5ld3M7dz0xMDA7aD02NztxdWFsaXR5PTEwMA--/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/4906.png")
+}
+
+.dj-augustin {
+    content: url("http://l3.yimg.com/bt/api/res/1.2/0wxOceh13S9935ilPgbp8w--/YXBwaWQ9eW5ld3M7dz0xMDA7aD02NztxdWFsaXR5PTEwMA--/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/4471.png")
+}
+
+.jeff-green {
+    content: url("http://l1.yimg.com/bt/api/res/1.2/z7PpNco_nWUk2.LA1WiAbA--/YXBwaWQ9eW5ld3M7dz0xMDA7aD02NztxdWFsaXR5PTEwMA--/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/4247.png")
+}
+
+.wilson-chandler {
+    content: url("http://l3.yimg.com/bt/api/res/1.2/wwhqPYeDSDkrUqa0xnxBfw--/YXBwaWQ9eW5ld3M7dz0xMDA7aD02NztxdWFsaXR5PTEwMA--/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/4301.png")
+}
+
+.andrew-bogut {
+    content: url("http://l.yimg.com/bt/api/res/1.2/cES2TLVvac4bnswAHoISvQ--/YXBwaWQ9eW5ld3M7dz0xMDA7aD02NztxdWFsaXR5PTEwMA--/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/3927.png")
+}
+
+.carmelo-anthony {
+    content: url("http://l1.yimg.com/bt/api/res/1.2/z4bMXdTHn4p0V5UGOJBbJg--/YXBwaWQ9eW5ld3M7dz0xMDA7aD02NztxdWFsaXR5PTEwMA--/https://s.yimg.com/xe/i/us/sp/v/nba_cutout/players_l/20161116/3706.png")
+}
